@@ -9,7 +9,7 @@ import products from '../../dummy/products.json';
 export class MainComponent implements OnInit {
 
   productList;
-  car=[];
+  public static car=[];
 
   constructor() { }
 
@@ -24,8 +24,8 @@ export class MainComponent implements OnInit {
 
   addToCar(any: any){
     debugger;
-    this.car.push(any);
-    console.log(this.car);
+    MainComponent.car.push(any);
+    //console.log(MainComponent.car);
   }
 
 }

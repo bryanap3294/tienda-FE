@@ -16,7 +16,9 @@ import { CartComponent } from './cart/cart.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    CartComponent
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
