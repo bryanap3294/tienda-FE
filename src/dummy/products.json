@@ -1,0 +1,26 @@
+[
+    {
+        "descripcion": "Polo cuello camisero",
+        "precio": 70.00,
+        "dscto": "25%",
+        "urlImage":"https://drive.google.com/uc?export=view&id=1zvUWMt18Rwv62m5XpTuTf0LX8U9WvPEv"
+    },
+    {
+        "descripcion": "Polo basico plomo",
+        "precio": 30.00,
+        "dscto": "25%",
+        "urlImage":"https://drive.google.com/uc?export=view&id=1aLAAsbi63LbdAcW0wucc7INY3nfBjhvb"
+    },
+    {
+        "descripcion": "Polo estampado Lima",
+        "precio": 59.90,
+        "dscto": "25%",
+        "urlImage":"https://drive.google.com/uc?export=view&id=10HgJ_byTXNwGki_yJlLbrmjUr3AHdGZ_"
+    },
+    {
+        "descripcion": "Black Drill Jogger",
+        "precio": 149.00,
+        "dscto": "25%",
+        "urlImage":"https://drive.google.com/uc?export=view&id=1wKy6GCSqY7c4S565UvUESa4tu45uRuUV"
+    }
+]
